@@ -4,7 +4,7 @@ setup(
     name='pos',
     version='1.0',
     packages=['pos'],
-    url='',
+    url='https://github.com/stefanvanwouw/point-of-sales-proof-of-concept/',
     license='MIT',
     author='Stefan van Wouw',
     author_email='stefanvanwouw@gmail.com',
