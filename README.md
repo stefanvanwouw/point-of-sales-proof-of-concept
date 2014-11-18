@@ -1,4 +1,8 @@
-Proof of Concept for a data pipeline using Luigi, Hadoop MapReduce and Hive.
+=======
+point-of-sales-proof-of-concept
+===============================
+
+Proof of Concept for processing transaction logs using Hadoop MapReduce, Hive and Luigi
 
 - The 'pos' package contains all the code for processing a point of sales transaction log. Calculating the most popular product category per user, together with the revenue per quarter per user.
 
